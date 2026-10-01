@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "everest-group-research": {
+      "type": "http",
+      "url": "https://mcp.everestgrp.com/mcp"
+    }
+  }
+}
