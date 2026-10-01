@@ -1,6 +1,6 @@
 # Everest Group AI for Claude
 
-Everest Group AI brings Everest Group's research library into Claude as one plugin. It combines the secure Everest MCP connector with instructions that keep responses grounded in the research returned for the signed-in user.
+Everest Group AI brings Everest Group's research library into Claude as one plugin. It combines the secure Everest Group MCP connector with instructions that keep responses grounded in the research returned for the signed-in user.
 
 ## What is included
 
@@ -15,7 +15,7 @@ The plugin connects to `https://mcp.everestgrp.com/mcp`. Claude will ask the use
 
 ## What the plugin sends
 
-The plugin contains no code that runs on your device. When you ask an Everest Group research question, Claude sends your question and relevant context from the conversation to the Everest MCP server at `https://mcp.everestgrp.com/mcp` to retrieve research. Your sign-in establishes your identity so the server can apply your membership entitlements. The plugin sends data to no other destination.
+The plugin contains no code that runs on your device. When you ask an Everest Group research question, Claude sends your question and relevant context from the conversation to the Everest Group MCP server at `https://mcp.everestgrp.com/mcp` to retrieve research. Your sign-in establishes your identity so the server can apply your membership entitlements. The plugin sends data to no other destination.
 
 ## Data and support
 
