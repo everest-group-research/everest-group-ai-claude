@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "everest-group-research",
+  "displayName": "Everest Group AI",
+  "version": "1.0.45",
+  "description": "Access Everest Group research and insights directly in Claude. Requires an Everest Group account.",
+  "author": {
+    "name": "Everest Group",
+    "email": "membership.support@everestgrp.com",
+    "url": "https://www.everestgrp.com"
+  },
+  "homepage": "https://www.everestgrp.com",
+  "repository": "https://github.com/everest-group-research/everest-group-ai-claude",
+  "keywords": [
+    "everest-group",
+    "research",
+    "reports",
+    "analyst",
+    "market-intelligence"
+  ],
+  "license": "SEE LICENSE IN LICENSE"
+}
