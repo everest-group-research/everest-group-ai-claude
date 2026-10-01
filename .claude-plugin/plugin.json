@@ -11,6 +11,10 @@
   },
   "homepage": "https://www.everestgrp.com",
   "repository": "https://github.com/everest-group-research/everest-group-ai-claude",
+  "privacyPolicyUrl": "https://www.everestgrp.com/privacy-notice/",
+  "termsOfServiceUrl": "https://www.everestgrp.com/terms-of-use/",
+  "supportUrl": "https://www.everestgrp.com/contact-us/",
+  "documentationUrl": "https://github.com/everest-group-research/everest-group-ai-claude#readme",
   "keywords": [
     "everest-group",
     "research",
